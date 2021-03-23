@@ -1,0 +1,35 @@
+.superInput {
+    outline: none;
+    color: #333;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    width: 90%;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition: all 0.3s;
+}
+
+.errorInput {
+    outline: none;
+    opacity: 0.1;
+    background: red;
+    color: #333;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
+    border-radius: 0.2rem;
+    border: none;
+    width: 90%;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition: all 0.3s;
+}
+
+.error {
+    outline: none;
+    color: red;
+}

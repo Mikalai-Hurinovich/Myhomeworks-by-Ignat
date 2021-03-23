@@ -9,7 +9,7 @@ import Junior from "./pages/Junior/Junior";
 export const PATH = {
     PRE_JUNIOR: '/pre-junior',
     JUNIOR: '/junior',
-    JUNIOR_PLUS: '/JUNIOR_PlUS',
+    JUNIOR_PLUS: '/JUNIOR_PLUS',
     MIDDLE: '/MIDDLE',
 
 }

@@ -1,0 +1,14 @@
+.span {
+
+    cursor: pointer;
+    display: inline-block;
+    height: 30px;
+    padding-top: 10px;
+    font-style: italic;
+    color: #1f7ac1;
+    font-size: 20px;
+}
+
+.span:hover {
+
+}

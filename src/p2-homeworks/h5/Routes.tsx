@@ -28,7 +28,6 @@ function Routes() {
                 <Route path={PATH.MIDDLE} render={() => <MIDDLE/>}/>
                 {/*у этого роута нет пути, он отрисуется если пользователь захочет попасть на несуществующую страницу*/}
                 <Route render={() => <Error404/>}/>
-
             </Switch>
         </div>
     )

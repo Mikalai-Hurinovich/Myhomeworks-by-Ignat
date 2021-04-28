@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3690ade-3d19-4db4-a3a5-886eb8c37455" name="Default Changelist" comment="">
+    <list default="true" id="f3690ade-3d19-4db4-a3a5-886eb8c37455" name="Default Changelist" comment="add: checkbox &amp; select examples">
+      <change afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelect.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h5/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h5/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelect.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelect.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c6-SuperRadio/SuperRadio.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h7/common/c6-SuperRadio/SuperRadio.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p2-homeworks/h6/common/c4-SuperEditableSpan" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,6 +53,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\react-prosto\IgnatDz\my homeworks\src\p2-homeworks\h7\common\c5-SuperSelect" />
       <recent name="D:\react-prosto\IgnatDz\my homeworks\src\p2-homeworks\h6\common\c4-SuperEditableSpan" />
       <recent name="D:\react-prosto\IgnatDz\my homeworks\src\p2-homeworks\h5\Header" />
       <recent name="D:\react-prosto\IgnatDz\my homeworks\src\p2-homeworks\h5\pages" />
@@ -118,7 +122,10 @@
       <workItem from="1616835122013" duration="63000" />
       <workItem from="1616835896171" duration="255000" />
       <workItem from="1617882859259" duration="646000" />
-      <workItem from="1618463877570" duration="8705000" />
+      <workItem from="1618463877570" duration="8863000" />
+      <workItem from="1618497692057" duration="12000" />
+      <workItem from="1619094614507" duration="714000" />
+      <workItem from="1619584862022" duration="4872000" />
     </task>
     <task id="LOCAL-00001" summary="add: gh-pages support">
       <created>1616496094059</created>
@@ -169,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618473964181</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add: change menu size">
+      <created>1618474298990</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618474298990</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +195,7 @@
     <MESSAGE value="add: styles add, 404 page" />
     <MESSAGE value="feat: editable span" />
     <MESSAGE value="add: change menu size" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: change menu size" />
+    <MESSAGE value="add: checkbox &amp; select examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: checkbox &amp; select examples" />
   </component>
 </project>

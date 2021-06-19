@@ -9,8 +9,8 @@ import Junior from "./pages/Junior/Junior";
 export const PATH = {
     PRE_JUNIOR: '/pre-junior',
     JUNIOR: '/junior',
-    JUNIOR_PLUS: '/JUNIOR_PlUS',
-    MIDDLE: '/MIDDLE',
+    JUNIOR_PLUS: '/junior_plus',
+    MIDDLE: '/middle',
 
 }
 
@@ -28,7 +28,6 @@ function Routes() {
                 <Route path={PATH.MIDDLE} render={() => <MIDDLE/>}/>
                 {/*у этого роута нет пути, он отрисуется если пользователь захочет попасть на несуществующую страницу*/}
                 <Route render={() => <Error404/>}/>
-
             </Switch>
         </div>
     )

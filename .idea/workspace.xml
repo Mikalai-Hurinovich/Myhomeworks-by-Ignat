@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3690ade-3d19-4db4-a3a5-886eb8c37455" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my homeworks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/homeWorkReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/homeWorkReducer.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +34,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p2-homeworks/h5/Header" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/p2-homeworks/h7/common/c5-SuperSelect" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="ts.external.directory.path" value="D:\react-prosto\IgnatDz\my homeworks\node_modules\typescript\lib" />
@@ -53,6 +49,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\react-prosto\IgnatDz\my homeworks\src\p2-homeworks\h7\common\c5-SuperSelect" />
+      <recent name="D:\react-prosto\IgnatDz\my homeworks\src\p2-homeworks\h6\common\c4-SuperEditableSpan" />
       <recent name="D:\react-prosto\IgnatDz\my homeworks\src\p2-homeworks\h5\Header" />
       <recent name="D:\react-prosto\IgnatDz\my homeworks\src\p2-homeworks\h5\pages" />
     </key>
@@ -64,7 +62,56 @@
       <recent name="D:\react-prosto\IgnatDz\my homeworks\src\p2-homeworks\h5\pages\Middle" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.check age 18">
+    <configuration name="check age 18" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" />
+      <test-names>
+        <test-name value="check age 18" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="sort name down" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" />
+      <test-names>
+        <test-name value="sort name down" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="sort name up" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" />
+      <test-names>
+        <test-name value="sort name up" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -77,7 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.check age 18" />
+        <item itemvalue="Jest.sort name down" />
+        <item itemvalue="Jest.sort name up" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.deploy" />
       </list>
     </recent_temporary>
   </component>
@@ -93,11 +144,105 @@
       <workItem from="1616070089093" duration="1417000" />
       <workItem from="1616443533479" duration="917000" />
       <workItem from="1616485098907" duration="6151000" />
-      <workItem from="1616495810231" duration="248000" />
+      <workItem from="1616495810231" duration="6940000" />
+      <workItem from="1616834703544" duration="302000" />
+      <workItem from="1616835122013" duration="63000" />
+      <workItem from="1616835896171" duration="255000" />
+      <workItem from="1617882859259" duration="646000" />
+      <workItem from="1618463877570" duration="8863000" />
+      <workItem from="1618497692057" duration="12000" />
+      <workItem from="1619094614507" duration="714000" />
+      <workItem from="1619584862022" duration="5084000" />
+      <workItem from="1619843899887" duration="1254000" />
+      <workItem from="1619846351351" duration="1209000" />
+      <workItem from="1622455989336" duration="744000" />
+      <workItem from="1622457769458" duration="9000" />
+      <workItem from="1624081134526" duration="4824000" />
     </task>
+    <task id="LOCAL-00001" summary="add: gh-pages support">
+      <created>1616496094059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616496094059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add: gh-pages support">
+      <created>1616497092079</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616497092079</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: name problem">
+      <created>1616497521285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616497521285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix: name problem">
+      <created>1616497682114</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616497682114</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add: styles add, 404 page">
+      <created>1616502692468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616502692468</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: editable span">
+      <created>1618473731895</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618473731895</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add: change menu size">
+      <created>1618473964181</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618473964181</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add: change menu size">
+      <created>1618474298990</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618474298990</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add: checkbox &amp; select examples">
+      <created>1619589758875</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619589758875</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add: new 8 homework(reducer, sort)">
+      <created>1624085749311</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624085749311</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add: gh-pages support" />
+    <MESSAGE value="fix: name problem" />
+    <MESSAGE value="add: styles add, 404 page" />
+    <MESSAGE value="feat: editable span" />
+    <MESSAGE value="add: change menu size" />
+    <MESSAGE value="add: checkbox &amp; select examples" />
+    <MESSAGE value="add: new 8 homework(reducer, sort)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: new 8 homework(reducer, sort)" />
   </component>
 </project>

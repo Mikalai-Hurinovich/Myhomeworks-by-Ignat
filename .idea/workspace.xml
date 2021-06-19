@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3690ade-3d19-4db4-a3a5-886eb8c37455" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h8/HW8.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/HW8.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/homeWorkReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/homeWorkReducer.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +157,7 @@
       <workItem from="1619846351351" duration="1209000" />
       <workItem from="1622455989336" duration="744000" />
       <workItem from="1622457769458" duration="9000" />
-      <workItem from="1624081134526" duration="4444000" />
+      <workItem from="1624081134526" duration="4824000" />
     </task>
     <task id="LOCAL-00001" summary="add: gh-pages support">
       <created>1616496094059</created>
@@ -226,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619589758875</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add: new 8 homework(reducer, sort)">
+      <created>1624085749311</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624085749311</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +242,7 @@
     <MESSAGE value="feat: editable span" />
     <MESSAGE value="add: change menu size" />
     <MESSAGE value="add: checkbox &amp; select examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: checkbox &amp; select examples" />
+    <MESSAGE value="add: new 8 homework(reducer, sort)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: new 8 homework(reducer, sort)" />
   </component>
 </project>
